@@ -17,7 +17,7 @@ const Counter = () => {
         style={{ backgroundColor: "lightblue", width: "50px", height: "30px" }}
         onClick={() => setCount(count + 1)}
       >
-        +one
+        +1
       </button>
       <button
         style={{ backgroundColor: "lightgreen", width: "50px", height: "30px" }}
