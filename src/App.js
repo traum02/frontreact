@@ -3,9 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Counter from "./Counter";
 import Info from "./Info";
-import MateEx1 from "./MateEx1";
 import ArrayFunc from "./ArrayFunc";
-import { Button } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.css";
 import SimpleMenu from "./SimpleMenu";
 
