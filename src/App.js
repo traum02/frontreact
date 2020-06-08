@@ -9,8 +9,6 @@ import SimpleMenu from "./SimpleMenu";
 function App() {
   return (
     <div className="App">
-    
-    adasdasd
       <SimpleMenu></SimpleMenu>
       <Counter></Counter>
       <Info></Info>
